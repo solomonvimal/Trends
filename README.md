@@ -1,2 +1,2 @@
-# nbinteract-tutorial
-https://www.nbinteract.com/tutorial/tutorial_github_setup.html
+# Trend detection methods 
+- Comparison of Mann-Kendall with Vogelsang method
